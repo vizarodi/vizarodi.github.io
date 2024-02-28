@@ -24,8 +24,12 @@ h1{
     color: antiquewhite;
 }
 
+img{
+    display: flex;
+    margin: auto;
+}
 
-#banner{
+.contenedor-img{
     display: flex;
     margin: auto;
     margin-bottom: 10px;
