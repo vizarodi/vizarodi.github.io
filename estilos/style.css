@@ -24,7 +24,8 @@ h1{
     color: antiquewhite;
 }
 
-.banner{
+
+#banner{
     display: flex;
     margin: auto;
     margin-bottom: 10px;
